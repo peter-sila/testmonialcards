@@ -1,0 +1,70 @@
+.two {
+   display: flex;
+   margin: 60px auto;
+   width: 80%;
+   gap: 20px;
+   justify-content: space-around;
+}
+
+.messe {
+   background-color: rgb(8, 8, 8);
+   color: white;
+   border-radius: 20px;
+   padding: 15px;
+}
+
+.prof {
+   display: flex;
+   justify-content: baseline;
+   padding: 15px;
+}
+
+.sil {
+   background-color: rgb(180, 176, 170);
+   color: black;
+   padding: 15px;
+   border: 1px solid black;
+   border-radius: 20px;
+}
+
+.piclefdesrit {
+   display: flex;
+   justify-content: space-around;
+   width: 80%;
+   min-height: 250px;
+   margin: 70px auto;
+   gap: 70px;
+}
+
+.renedesc {
+   width: 800px;
+   background-color: black;
+   padding: 15px;
+   color: white;
+   border-radius: 20px;
+
+}
+
+.renedesc h6 {
+   color: rgb(95, 97, 97);
+}
+
+.grid {
+   margin: 60px auto;
+   width: 80%;
+   border: 1.5px solid black;
+   border-radius: 20px;
+   padding: 50px;
+   text-align: center;
+}
+
+.grid .inactive {
+   width: 40px;
+   height: 40px;
+   color: rgba(0, 0, 0.5);
+}
+
+.profi {
+   padding: 15px;
+}
+
